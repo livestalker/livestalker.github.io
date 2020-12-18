@@ -1,6 +1,6 @@
 baseURL = "https://sysctl.ru/"
 languageCode = "en-us"
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 title = "SysCtl"
 theme = "anatole"
 summarylength = 10
@@ -46,6 +46,17 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:mi.aleksio@gmail.com"
 
+[Languages]
+  [Languages.ru]
+  weight = 2
+  contentDir = "content/rus"
+  LanguageName = "RU"
+
+  [Languages.en]
+  weight = 1
+  contentDir = "content/eng"
+  LanguageName = "EN"
+
 ## Menu items
 
 [menu]
@@ -63,13 +74,38 @@ url = "mailto:mi.aleksio@gmail.com"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "CV"
   weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "cv"
+  url = "/cv/"
 
   [[menu.main]]
   name = "Contact"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+  
+  # RU menu
+  [[Languages.ru.menu.main]]
+  name = "Главная"
+  identifier = "home"
+  weight = 100
+  url = "/ru/"
+
+  [[Languages.ru.menu.main]]
+  name = "Посты"
+  weight = 200
+  identifier = "posts"
+  url = "/ru/post/"
+
+  [[Languages.ru.menu.main]]
+  name = "CV"
+  weight = 300
+  identifier = "cv"
+  url = "/ru/cv/"
+
+  [[Languages.ru.menu.main]]
+  name = "Контактная информация"
+  weight = 400
+  identifier = "contact"
+  url = "/ru/contact/"
