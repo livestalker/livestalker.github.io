@@ -19,7 +19,7 @@ description = "My personal blog"
 profilePicture = "images/avg.jpeg"
 keywords = ""
 #favicon = "favicons/"
-customCss = []
+customCss = ["css/fontawesome.css"]
 mainSections = ["post"]
 #images = []
 doNotLoadAnimations = true
@@ -67,11 +67,11 @@ url = "mailto:mi.aleksio@gmail.com"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+#  [[menu.main]]
+#  name = "Posts"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/post/"
 
   [[menu.main]]
   name = "CV"
@@ -79,11 +79,11 @@ url = "mailto:mi.aleksio@gmail.com"
   identifier = "cv"
   url = "/cv/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+#  [[menu.main]]
+#  name = "Contact"
+#  weight = 400
+#  identifier = "contact"
+#  url = "/contact/"
   
   # RU menu
   [[Languages.ru.menu.main]]
@@ -92,11 +92,11 @@ url = "mailto:mi.aleksio@gmail.com"
   weight = 100
   url = "/ru/"
 
-  [[Languages.ru.menu.main]]
-  name = "Посты"
-  weight = 200
-  identifier = "posts"
-  url = "/ru/post/"
+#  [[Languages.ru.menu.main]]
+#  name = "Посты"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/ru/post/"
 
   [[Languages.ru.menu.main]]
   name = "CV"
@@ -104,8 +104,11 @@ url = "mailto:mi.aleksio@gmail.com"
   identifier = "cv"
   url = "/ru/cv/"
 
-  [[Languages.ru.menu.main]]
-  name = "Контактная информация"
-  weight = 400
-  identifier = "contact"
-  url = "/ru/contact/"
+#  [[Languages.ru.menu.main]]
+#  name = "Контактная информация"
+#  weight = 400
+#  identifier = "contact"
+#  url = "/ru/contact/"
+
+[markup.goldmark.renderer]
+unsafe = true
