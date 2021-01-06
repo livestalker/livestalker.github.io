@@ -17,6 +17,7 @@ Responsibilities:
 * Write tests.
 * Troubleshoot and fix software bugs.
 * Configure CI/CD pipelines (Jenkins, GitLab).
+* Write technical documentation.
 
 **DevOps engineer**  
 **Rulingo.com**  
@@ -73,7 +74,7 @@ Responsibilities:
 * Databases SQL/NoSQL: postgres, elasticsearch, redis.
 * Messaging: RabbitMQ
 
-**Tools**
+**Tools, etc.**
 
 * Git
 * PyCharm
