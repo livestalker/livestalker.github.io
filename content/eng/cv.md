@@ -1,23 +1,22 @@
 +++
-title = "CV"
+title = "Alexey Grebenshchikov"
 date = "2020-12-18"
 +++
-## Libs
-
-* alembic
-* scrapy
-* sqlalchemy
-
-## Soft skills
-
-## Hard skills
 
 ## Experience
 
-**Backend Python Developer**  
+**Python Backend Developer**  
 **UpStart**  
 {{% fontawesome calendar %}} Jan 2019 - Present (2 yrs)
 {{% fontawesome map-marker-alt-solid %}} Russia, Kirov
+
+Responsibilities:
+
+* Discusses technical and design issues with other developers and managers.
+* Backend development in python.
+* Write tests.
+* Troubleshoot and fix software bugs.
+* Configure CI/CD pipelines (Jenkins, GitLab).
 
 **DevOps engineer**  
 **Rulingo.com**  
@@ -49,6 +48,38 @@ Responsibilities:
 * Build demo-labs for clients.
 * Develop internal projects (using python for a backend)
 * Trained clients and provided technical support to clients and coworkers.
+
+## Soft skills
+
+* Good analytical skills.
+* Strong time management skills, and the ability to prioritize tasks.
+* Works closely with project, product management and QA teams using strong collaboration,
+  communication and technical skills.
+
+## Hard skills
+
+**Python**
+
+* Web frameworks: Flask, FastAPI.
+* DB libs: sqlalchemy, alembic.
+* Web scraping: scrapy.
+* Unit testing: unittest, pytest.
+
+**Infrastructure**
+
+* Strong knowledge of operating system knowledge (Linux, Unix).
+* Virtualization: VMware vSphere, KVM, LXC, Docker, Proxmox (for virtualization mgmt).
+* Monitoring: zabbix.
+* Databases SQL/NoSQL: postgres, elasticsearch, redis.
+* Messaging: RabbitMQ
+
+**Tools**
+
+* Git
+* PyCharm
+* JIRA
+* Confluence
+* Vim :)
 
 ## Education
 
