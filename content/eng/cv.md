@@ -8,7 +8,12 @@ date = "2020-12-18"
 * scrapy
 * sqlalchemy
 
+## Soft skills
+
+## Hard skills
+
 ## Experience
+
 **Backend Python Developer**  
 **UpStart**  
 {{% fontawesome calendar %}} Jan 2019 - Present (2 yrs)
@@ -18,11 +23,32 @@ date = "2020-12-18"
 **Rulingo.com**  
 {{% fontawesome calendar %}} Jan 2016 - Dec 2018 (3 yrs)
 {{% fontawesome map-marker-alt-solid %}} Russia, Smolensk (remote)
+
+Responsibilities:
+
+* Support for continuous integration & continuous delivery processes.
+* Support for container virtualization based on Docker.
+* IT services health monitoring.
+* Infrastructure security monitoring.
+* R&D in terms of infrastructure solutions.
+* Write automation scripts on a python.
   
 **System Architect**  
 **Aspect SPb Co. Ltd.**  
 {{% fontawesome calendar %}} Aug 2007 - Dec 2018 (11 yrs 5 mos)
 {{% fontawesome map-marker-alt-solid %}} Russia, Kirov
+
+Responsibilities:
+
+* Technical pre-sale and post-sale support.
+* Install and configuring hardware of different vendors:
+  * storages: Huawei, EMC, IBM, HP;
+  * servers: Huawei, HP, Intel, IBM, Aquarius.
+* Implementing different solutions based on: VMware, Microsoft, Kaspersky software.
+* Write technical documentation.
+* Build demo-labs for clients.
+* Develop internal projects (using python for a backend)
+* Trained clients and provided technical support to clients and coworkers.
 
 ## Education
 
