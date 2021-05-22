@@ -20,9 +20,11 @@ profilePicture = "images/avg.jpeg"
 keywords = ""
 #favicon = "favicons/"
 customCss = ["css/fontawesome.css"]
-mainSections = ["post"]
+mainSections = ["posts"]
 #images = []
 doNotLoadAnimations = true
+disableThemeSwitcher = true
+fullPostContent = true
 
 ## Math settings
 [params.math]
@@ -67,11 +69,11 @@ url = "mailto:mi.aleksio@gmail.com"
   weight = 100
   url = "/"
 
-#  [[menu.main]]
-#  name = "Posts"
-#  weight = 200
-#  identifier = "posts"
-#  url = "/post/"
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
 
   [[menu.main]]
   name = "CV"
@@ -92,11 +94,11 @@ url = "mailto:mi.aleksio@gmail.com"
   weight = 100
   url = "/ru/"
 
-#  [[Languages.ru.menu.main]]
-#  name = "Посты"
-#  weight = 200
-#  identifier = "posts"
-#  url = "/ru/post/"
+  [[Languages.ru.menu.main]]
+  name = "Посты"
+  weight = 200
+  identifier = "posts"
+  url = "/ru/posts/"
 
   [[Languages.ru.menu.main]]
   name = "CV"
