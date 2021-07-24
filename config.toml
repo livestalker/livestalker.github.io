@@ -6,7 +6,6 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = false
 enableRobotsTXT = true
-publishDir = "docs"
 
 # Syntax highlighting
 pygmentsUseClasses = true
