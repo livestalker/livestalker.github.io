@@ -1,7 +1,90 @@
 +++
-title = "CV"
+title = "Alexey Grebenshchikov"
 date = "2020-12-18"
 +++
+
+## Experience
+
+**Python Backend Developer**  
+**UpStart**  
+{{% fontawesome calendar %}} Jan 2019 - Present (2 yrs)
+{{% fontawesome map-marker-alt-solid %}} Russia, Kirov
+
+Responsibilities:
+
+* Discusses technical and design issues with other developers and managers.
+* Backend development in python.
+* Write tests.
+* Troubleshoot and fix software bugs.
+* Configure CI/CD pipelines (Jenkins, GitLab).
+* Write technical documentation.
+
+**DevOps engineer**  
+**Rulingo.com**  
+{{% fontawesome calendar %}} Jan 2016 - Dec 2018 (3 yrs)
+{{% fontawesome map-marker-alt-solid %}} Russia, Smolensk (remote)
+
+Responsibilities:
+
+* Support for continuous integration & continuous delivery processes.
+* Support for container virtualization based on Docker.
+* IT services health monitoring.
+* Infrastructure security monitoring.
+* R&D in terms of infrastructure solutions.
+* Write automation scripts on a python.
+  
+**System Architect**  
+**Aspect SPb Co. Ltd.**  
+{{% fontawesome calendar %}} Aug 2007 - Dec 2018 (11 yrs 5 mos)
+{{% fontawesome map-marker-alt-solid %}} Russia, Kirov
+
+Responsibilities:
+
+* Technical pre-sale and post-sale support.
+* Install and configuring hardware of different vendors:
+  * storages: Huawei, EMC, IBM, HP;
+  * servers: Huawei, HP, Intel, IBM, Aquarius.
+* Implementing different solutions based on: VMware, Microsoft, Kaspersky software.
+* Write technical documentation.
+* Build demo-labs for clients.
+* Develop internal projects (using python for a backend)
+* Trained clients and provided technical support to clients and coworkers.
+
+## Soft skills
+
+* Good analytical skills.
+* Strong time management skills, and the ability to prioritize tasks.
+* Works closely with project, product management and QA teams using strong collaboration,
+  communication and technical skills.
+
+## Hard skills
+
+**Python**
+
+* Web frameworks: Flask, FastAPI.
+* DB libs: sqlalchemy, alembic.
+* Web scraping: scrapy.
+* Unit testing: unittest, pytest.
+
+**Infrastructure**
+
+* Strong knowledge of operating system knowledge (Linux, Unix).
+* Virtualization: VMware vSphere, KVM, LXC, Docker, Proxmox (for virtualization mgmt).
+* Monitoring: zabbix.
+* Databases SQL/NoSQL: postgres, elasticsearch, redis.
+* Messaging: RabbitMQ
+
+**Tools, etc.**
+
+* Git
+* PyCharm
+* JIRA
+* Confluence
+* Vim :)
+
+## Education
+
+* 2002 - 2007 Master’s Degree in Computer Science (Vyatka State University)
 
 ## Certification
 
