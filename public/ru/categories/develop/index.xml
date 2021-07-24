@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>develop on SysCtl</title>
+    <link>https://sysctl.ru/ru/categories/develop/</link>
+    <description>Recent content in develop on SysCtl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://sysctl.ru/ru/categories/develop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как вернуть массив из C-функции.</title>
+      <link>https://sysctl.ru/ru/posts/2017/2017-03-13-return-arrays-from-c-func/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysctl.ru/ru/posts/2017/2017-03-13-return-arrays-from-c-func/</guid>
+      
+        <description>Введение в проблему Про то, как вернуть массив из функции на языке C, написано достаточно много статей.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on SysCtl</title>
+    <link>https://sysctl.ru/categories/hardware/</link>
+    <description>Recent content in hardware on SysCtl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://sysctl.ru/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huawei 2200 v3 default ip addresses and password</title>
+      <link>https://sysctl.ru/posts/2017-03-09-huawei-2200v3-default-ip/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysctl.ru/posts/2017-03-09-huawei-2200v3-default-ip/</guid>
+      
+        <description>Today I tested new storage system: Huawei OceanStor 2200 V3. And I really liked this system.</description>
+      
+    </item>
+    
+    <item>
+      <title>Huawei OceanStor MIB</title>
+      <link>https://sysctl.ru/posts/2017-04-11-huawei-oceanstor-mib/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysctl.ru/posts/2017-04-11-huawei-oceanstor-mib/</guid>
+      
+        <description>If you need MIB files for Huawei OceanStor go to Support &amp;gt; Bulletins &amp;gt; Service Bulletins &amp;gt; MIB Files &amp;gt; IT on Huawei site.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
